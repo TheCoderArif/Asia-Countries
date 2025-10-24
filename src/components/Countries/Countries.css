@@ -2,3 +2,10 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
+
+.visited-countries{
+    border: 2px solid lawngreen;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+}
